@@ -1,0 +1,1 @@
+[README] https://github.com/ordanon/ConfigurationInitializer/blob/master/README.md
