@@ -7,6 +7,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="ConfigurationInitializer" Version="1.0.8" />
-    <PackageReference Include="Microsoft.ServiceFabric" Version="6.2.274" />
+    <PackageReference Include="Microsoft.ServiceFabric" Version="6.2.301" />
   </ItemGroup>
 </Project>
