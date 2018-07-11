@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <id>ConfigurationInitializer.ServiceFabric</id>
+        <version>0.0.1</version>
+        <authors>jorub@microsoft.com</authors>
+        <owners>jorub@microsoft.com</owners>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/johnib/ConfigurationInitializer.ServiceFabric</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <releaseNotes>First release</releaseNotes>
+        <description>A framework for reading ServiceFabric configuration in a convenient and safe way</description>
+        <copyright>Copyright ©2018 Jonathan Rubin Yaniv Barazany</copyright>
+        <tags>servicefabric configuration manifest application config fabric</tags>
+    </metadata>
+</package>
